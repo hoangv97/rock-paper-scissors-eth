@@ -6,4 +6,7 @@ Change the `defaultNetwork` in `packages/hardhat/hardhat.config.js`
 
 Create deployer account: `yarn generate`
 
-Deploy: `yarn deploy`
+Build: `yarn build`
+
+Deploy to Netlify: `netlify deploy -p`
+Path: `./packages/react-app/build`

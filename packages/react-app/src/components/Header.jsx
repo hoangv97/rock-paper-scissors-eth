@@ -5,7 +5,7 @@ import React from "react";
 
 export default function Header() {
   return (
-    <a href="https://github.com/austintgriffith/scaffold-eth" target="_blank" rel="noopener noreferrer">
+    <a href="https://github.com/ngviethoang/rock-paper-scissors-eth" target="_blank" rel="noopener noreferrer">
       <PageHeader title="🏗 Rock Paper Scissors" subTitle="" style={{ cursor: "pointer" }} />
     </a>
   );
